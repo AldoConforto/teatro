@@ -4,9 +4,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="utf-8">
+        <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
 	    <meta name="description" content="Nato a Catanzaro nel 1945 da 50 anni si dedica al teatro classico. Calabria Catanzaro Trambia Goldoni Sofocle Dante Manzoni D'Annunzio Miles Gloriosus">
 	    <title>Aldo Conforto attore e regista di teatro</title>
         <link href="../favicon.ico" rel="shortcut icon">
+
 	    <link href="media/sigplus/css/sigplus.min.css" rel="stylesheet">
 	    <link href="media/sigplus/engines/boxplusx/css/boxplusx.min.css" rel="stylesheet">
 	    <link href="media/sigplus/engines/captionplus/css/captionplus.min.css" rel="stylesheet">
@@ -18,23 +20,23 @@
 	    <!--<link href="media/gantry5/assets/css/font-awesome5-shim.min.css" rel="stylesheet">-->
 	    <link href="templates/g5_helium/custom/css-compiled/helium-joomla_14.css" rel="stylesheet">
 	    <link href="templates/g5_helium/custom/css-compiled/custom_14.css" rel="stylesheet">
-        <script type="text/javascript" src="media/jquery-3.6.4.min.js"></script>
-        <script type='text/javascript'>
+
+        <script src="media/jquery-3.6.4.min.js"></script>
+        <script>
             $.get('locandineFooter.html',function(response){$('#locandineFooter').html(response);});
             $.get('menuPrincipale.html',function(response){$('#menuPrincipale').html(response);});
         </script>
 
-	    <script src="media/system/js/core.min.js"></script>
-	    <script src="media/system/js/messages-es5.min.js" nomodule="" defer=""></script>
-	    <script src="media/system/js/messages.min.js" type="module"></script>
-	    <script src="media/sigplus/js/initialization.min.js" defer=""></script>
 	    <script src="media/sigplus/engines/boxplusx/js/boxplusx.min.js" defer=""></script>
 	    <script src="media/sigplus/engines/captionplus/js/captionplus.min.js" defer=""></script>
-	    <script src="gtag/js?id=UA-55682109-3" async=""></script>
-	    <script>document.addEventListener("DOMContentLoaded", function () {
+	    <script src="media/sigplus/js/initialization.min.js" defer=""></script>
+	    <script>
+            document.addEventListener("DOMContentLoaded", function () {
             __sigplusInitialize("sigplus_1001");
             __sigplusCaption("sigplus_1001", null, "{$text} ({$current}\/{$total})");
-            window.sigplus=window.sigplus||{};window.sigplus.lightbox=window.sigplus.lightbox||{};window.sigplus.lightbox["#sigplus_1001 a.sigplus-image"]=(new BoxPlusXDialog({"id":"boxplusx_sigplus_1001","slideshow":3000,"autostart":true,"loop":true,"navigation":"bottom","protection":false,"dir":"ltr"})).bind(document.querySelectorAll("#sigplus_1001 a.sigplus-image"));
+            window.sigplus=window.sigplus||{};
+            window.sigplus.lightbox=window.sigplus.lightbox||{};
+            window.sigplus.lightbox["#sigplus_1001 a.sigplus-image"]=(new BoxPlusXDialog({"id":"boxplusx_sigplus_1001","slideshow":3000,"autostart":true,"loop":true,"navigation":"bottom","protection":false,"dir":"ltr"})).bind(document.querySelectorAll("#sigplus_1001 a.sigplus-image"));
             CaptionPlus.bind(document.querySelector("#sigplus_1001 ul"), {"download":false,"overlay":true,"position":"bottom","visibility":"mouseover"});
             }, false);
         </script>
@@ -81,7 +83,9 @@
             </div>
         </div>
         <div id="g-page-surround">
-            <div class="g-offcanvas-hide g-offcanvas-toggle" role="navigation" data-offcanvas-toggle="" aria-controls="g-offcanvas" aria-expanded="false"><i class="fa fa-fw fa-bars"></i></div>                                                                    
+            <div class="g-offcanvas-hide g-offcanvas-toggle" role="navigation" data-offcanvas-toggle="" aria-controls="g-offcanvas" aria-expanded="false">
+                <i class="fa fa-fw fa-bars"></i>
+            </div>                                                                    
             <section id="g-navigation" class="section-horizontal-paddings-small">
                 <div class="g-container">
                     <div class="g-grid">                        
@@ -148,7 +152,8 @@
 		                                            <span itemprop="url">https://aldoconforto.github.io/teatro/riccardo-conforto-design-e-gestione-del-sito</span>
                                                 </div>
                                                 <img class="hidden" itemprop="image" src="images/Aldo%20Conforto%20vestito%20di%20scena.jpg" alt="Aldo Conforto attore regista di teatro" title="Aldo Conforto attore regista di teatro">
-                                                <link itemprop="url" title="https://aldoconforto.github.io/teatro/" href="index.htm">    <link itemprop="additionalType" title="Home" href="index.htm">
+                                                <link itemprop="url" title="https://aldoconforto.github.io/teatro/" href="index.htm">    
+                                                <link itemprop="additionalType" title="Home" href="index.htm">
                                                 <link itemprop="additionalType" title="Biografia" href="aldo-conforto-biografia-curriculum-vitae/index.htm">
                                                 <link itemprop="additionalType" title="Articoli" href="articoli/index.htm">
                                                 <link itemprop="additionalType" title="Fotografie" href="https://aldoconforto.github.io/teatro/vestiti.html">
@@ -162,11 +167,11 @@
                     </div>
                 </div>
             </section>
-                                                    
+        </div>                                        
         <footer id="g-footer" class="g-flushed">
             <div class="g-container">
-                <div class="g-grid">                        
-                    <div class="g-block size-100">
+                <div class="g-grid">
+                    <div class="g-block size-100 center nomarginall nopaddingall">
                         <div id='locandineFooter'></div>
                     </div>
                 </div>
