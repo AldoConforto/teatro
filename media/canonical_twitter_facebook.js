@@ -26,14 +26,14 @@ let canonicalTwitterFacebook = `
 <meta property="og:url" content="`+urlPagina+`">
 <meta property="og:image" content="https://aldoconforto.github.io/teatro/images/Aldo%20Conforto%20vestito%20di%20scena.jpg">
 <meta property="og:image:alt" content="Aldo Conforto vestito di scena">
-<meta property="og:site_name" content="Aldo Conforto attore regista di teatro">
+<meta property="og:site_name" content="`+titoloPagina+`">
 <meta property="fb:admins" content="xxxxxxxxxxx">
 <meta property="fb:app_id" content="578483895953705">
 <meta property="og:description" content="`+descrizionePagina+`">
 <meta property="og:image" content="https://aldoconforto.github.io/teatro/images/Aldo%20Conforto%20vestito%20di%20scena.jpg">
 <meta property="og:image:width" content="993">
 <meta property="og:image:height" content="1418">
-<meta property="og:image:alt" content="Aldo Conforto attore regista di teatro">
+<meta property="og:image:alt" content="Aldo Conforto vestito di scena">
 `;
 
 
