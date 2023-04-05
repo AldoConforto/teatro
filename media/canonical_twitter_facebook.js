@@ -7,7 +7,10 @@
 */
 
 const titoloPagina = document.title;
+const urlPagina = document.URL
 const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
+
+console.log(urlPagina);
 
 let canonicalTwitterFacebook = `
 <link rel="canonical" href="https://aldoconforto.github.io/teatro/index.htm" />
