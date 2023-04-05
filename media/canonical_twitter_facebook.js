@@ -7,7 +7,7 @@
 */
 
 const titoloPagina = document.title;
-const urlPagina = document.URL
+const urlPagina = document.baseURI
 const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
 
 console.log(urlPagina);
