@@ -260,9 +260,9 @@ const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canoni
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
 
 //let contenutoSchemaArticle = document.getElementById('schemaArticle');
-let contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
+const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
 //console.log(contenutoSchemaArticle.innerHTML);
-aggiungiContenutoPrima(contenutoSchemaArticle,contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
+aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
 
 
 const footer = document.getElementById('footer');
