@@ -97,7 +97,7 @@ let canonicalTwitterFacebookFavicon = `
 <link href="../favicon.ico" rel="shortcut icon">
 `;
 
-let schemaDinamicoPartI = `
+let schemaArticleInAggiunta = `
 <meta itemprop="inLanguage" content="it-IT">
 <div class="page-header">
 <h1 itemprop="headline" class="div_header">`+titoloPagina+`</h1>
@@ -253,13 +253,15 @@ console.log(descrizionePagina);
 */
 
 const menuPrincipale = document.getElementById('menuPrincipale');
+console.log(menuPrincipale.innerHTML);
 aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 
 const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
 
-const contenutoSchemaPartI = document.getElementsByClassName('com-content-article item-page')
-aggiungiContenutoPrima(schemaPartI,contenutoSchemaPartI,schemaDinamicoPartI);
+let contenutoSchemaArticle = document.getElementById('schemaArticle');
+//console.log(contenutoSchemaPartI.innerHTML);
+aggiungiContenutoPrima(schemaArticle,contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
