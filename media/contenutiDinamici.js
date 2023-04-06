@@ -259,7 +259,7 @@ const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canoni
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
 
 const contenutoSchemaPartI = document.getElementById('schemaPartI');
-aggiornaContenuto(contenutoSchemaPartI,schemaDinamicoPartI);
+aggiungiContenutoPrima(schemaPartI,contenutoSchemaPartI,schemaDinamicoPartI);
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
@@ -269,4 +269,8 @@ aggiornaContenuto(sectionExpanded,sectionExpandedDinamico);
 
 function aggiornaContenuto(campoNellaPagina,nuovoContenuto) {
     campoNellaPagina.innerHTML = nuovoContenuto;
+}
+
+function aggiungiContenutoPrima(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaPrima) {
+    campoNellaPagina.innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
 }
