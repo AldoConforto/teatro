@@ -258,7 +258,7 @@ aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
 
-const contenutoSchemaPartI = document.getElementById('schemaPartI');
+const contenutoSchemaPartI = document.getElementsByClassName('com-content-article item-page')
 aggiungiContenutoPrima(schemaPartI,contenutoSchemaPartI,schemaDinamicoPartI);
 
 const footer = document.getElementById('footer');
