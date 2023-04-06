@@ -53,7 +53,6 @@
 }
 
 .list_articoli {
-    list-style: none;
     line-height: 2em;
     margin: 0;
     margin-block-start: 0;
@@ -61,6 +60,6 @@
     margin-inline-start: 0;
     margin-inline-end: 0;
     padding-inline-start: 0;
-    font-size: 1.25em;
+    font-size: 1.0em;
     font-weight: bold;
 }
