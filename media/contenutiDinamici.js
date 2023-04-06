@@ -259,9 +259,11 @@ aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
 
-let contenutoSchemaArticle = document.getElementById('schemaArticle');
-//console.log(contenutoSchemaPartI.innerHTML);
-aggiungiContenutoPrima(schemaArticle,contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
+//let contenutoSchemaArticle = document.getElementById('schemaArticle');
+let contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
+//console.log(contenutoSchemaArticle.innerHTML);
+aggiungiContenutoPrima(contenutoSchemaArticle,contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
+
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
@@ -274,5 +276,6 @@ function aggiornaContenuto(campoNellaPagina,nuovoContenuto) {
 }
 
 function aggiungiContenutoPrima(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaPrima) {
+    //campoNellaPagina[0].innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
     campoNellaPagina.innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
 }
