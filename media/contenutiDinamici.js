@@ -29,7 +29,7 @@ const menuPrincipaleDinamico = `
                                     </span>
                                 </a>
                             </li>
-                            <li class="g-menu-item g-menu-item-type-component g-menu-item-106 active g-standard  ">
+                            <li class="g-menu-item g-menu-item-type-component g-menu-item-106 g-standard  ">
                                 <a class="g-menu-item-container" href="aldo-conforto-biografia-curriculum-vitae.html" title="Aldo Conforto Biografia Curriculum Vitae">
                                     <i class="fa fa-address-book" aria-hidden="true"></i>
                                     <span class="g-menu-item-content">
@@ -39,7 +39,7 @@ const menuPrincipaleDinamico = `
                                 </a>
                             </li>
                             <li class="g-menu-item g-menu-item-type-component g-menu-item-107 g-standard  ">
-                                <a class="g-menu-item-container" href="articoli.html" title="Articoli di teatro collezionati dai giornali cartacei e digitali">
+                                <a class="g-menu-item-container" href="articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html" title="Articoli di teatro collezionati dai giornali cartacei e digitali">
                                     <i class="fa fa-book" aria-hidden="true"></i>
                                     <span class="g-menu-item-content">
                                         <span class="g-menu-item-title">Articoli</span>
@@ -48,7 +48,7 @@ const menuPrincipaleDinamico = `
                                 </a>
                             </li>
                             <li class="g-menu-item g-menu-item-type-component g-menu-item-122 g-standard  ">
-                                <a class="g-menu-item-container" href="vestiti.html" title="Set foto di spettacoli di teatro e vestiti di scena">
+                                <a class="g-menu-item-container" href="vestiti-di-scena-fotografie-modelli.html" title="Set foto di spettacoli di teatro e vestiti di scena">
                                     <i class="fa fa-file-picture-o" aria-hidden="true"></i>
                                     <span class="g-menu-item-content">
                                         <span class="g-menu-item-title">Vestiti</span>
@@ -70,7 +70,7 @@ const urlPagina = window.location.href
 const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
 
 
-let canonicalTwitterFacebook = `
+let canonicalTwitterFacebookFavicon = `
 <link rel="canonical" href="`+urlPagina+`" />
 <meta name="twitter:title" content="`+titoloPagina+`">
 <meta name="twitter:card" content="summary_large_image">
@@ -94,6 +94,30 @@ let canonicalTwitterFacebook = `
 <meta property="og:image:width" content="993">
 <meta property="og:image:height" content="1418">
 <meta property="og:image:alt" content="Aldo Conforto vestito di scena">
+<link href="../favicon.ico" rel="shortcut icon">
+`;
+
+let schemaDinamicoPartI = `
+<meta itemprop="inLanguage" content="it-IT">
+<div class="page-header">
+<h1 itemprop="headline" class="div_header">`+titoloPagina+`</h1>
+<h2 class="hidden">`+titoloPagina+`</h2>
+<h3 class="hidden">`+titoloPagina+`</h3>
+<h4 class="hidden">`+titoloPagina+`</h4>
+<h5 class="hidden">`+titoloPagina+`</h5>
+<h6 class="hidden">`+titoloPagina+`</h6>
+</div>
+<meta itemprop="dateModified" content="2022-01-29 10:33:08">
+<div class="hidden" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+    <span itemprop="name">Riccardo Conforto</span>
+    <span itemprop="url">https://aldoconforto.github.io/teatro/riccardo-conforto-design-e-gestione-del-sito</span>
+</div>
+<img class="hidden" itemprop="image" src="images/Aldo%20Conforto%20vestito%20di%20scena.jpg" alt="Aldo Conforto attore regista di teatro" title="Aldo Conforto attore regista di teatro">
+<link itemprop="url" title="`+titoloPagina+`" href="`+urlPagina+`">    
+<link itemprop="additionalType" title="Home" href="https://aldoconforto.github.io/teatro/index.htm">
+<link itemprop="additionalType" title="Biografia" href="https://aldoconforto.github.io/teatro/aldo-conforto-biografia-curriculum-vitae.html">
+<link itemprop="additionalType" title="Articoli" href="https://aldoconforto.github.io/teatro/articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html">
+<link itemprop="additionalType" title="Vestiti" href="https://aldoconforto.github.io/teatro/vestiti-di-scena-fotografie-modelli.html">
 `;
 
 let footerDinamico = `
@@ -195,6 +219,19 @@ let footerDinamico = `
 </div>
 `;
 
+let sectionExpandedDinamico = `
+<div class="g-container" itemprop="articleSection">                                 
+<blockquote>
+    <p>
+        « si ringraziano gli autori e le redazioni di tutti i giornali dai quali sono stati recuperati gli articoli presenti in queste pagine »
+    </br>
+        « un ringraziamento speciale va a tutti coloro che hanno contribuito alla realizzazione degli spettacoli e a tutto il pubblico che in tutti questi anni ha scelto di donare il proprio tempo a sostegno del Teatro »
+    </p>
+</blockquote>
+</div>
+`;
+
+
 //const pippo = document.querySelector('pippo');
 //pippo.addEventListener('click', updateName);
 // let titoloPagina = document.querySelector('title');
@@ -218,11 +255,17 @@ console.log(descrizionePagina);
 const menuPrincipale = document.getElementById('menuPrincipale');
 aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 
-const contenutoCanonicalTwitterFacebook = document.getElementById('canonicalTwitterFacebook');
-aggiornaContenuto(contenutoCanonicalTwitterFacebook,canonicalTwitterFacebook);
+const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
+aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
+
+const contenutoSchemaPartI = document.getElementById('schemaPartI');
+aggiornaContenuto(contenutoSchemaPartI,schemaDinamicoPartI);
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
+
+const sectionExpanded = document.getElementById('g-expanded');
+aggiornaContenuto(sectionExpanded,sectionExpandedDinamico);
 
 function aggiornaContenuto(campoNellaPagina,nuovoContenuto) {
     campoNellaPagina.innerHTML = nuovoContenuto;
