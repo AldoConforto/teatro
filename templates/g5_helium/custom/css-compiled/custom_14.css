@@ -54,12 +54,19 @@
 
 .list_articoli {
     line-height: 2em;
+    font-size: 1.0em;
+    font-weight: bold;   
+}
+
+
+/*.list_articoli {
+    line-height: 2em;
     margin: 0;
-    margin-block-start: 0;
+    margin-block-start: 5px;
     margin-block-end: 0;
     margin-inline-start: 0;
     margin-inline-end: 0;
     padding-inline-start: 0;
     font-size: 1.0em;
     font-weight: bold;
-}
+}*/
