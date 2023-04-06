@@ -253,7 +253,7 @@ console.log(descrizionePagina);
 */
 
 const menuPrincipale = document.getElementById('menuPrincipale');
-console.log(menuPrincipale.innerHTML);
+//console.log(menuPrincipale.innerHTML);
 aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 
 const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
