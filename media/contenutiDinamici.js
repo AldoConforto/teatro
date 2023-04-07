@@ -261,9 +261,8 @@ aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFaceb
 
 //let contenutoSchemaArticle = document.getElementById('schemaArticle');
 const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
-//console.log(contenutoSchemaArticle.innerHTML);
+console.log(contenutoSchemaArticle.innerHTML);
 aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
-
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
