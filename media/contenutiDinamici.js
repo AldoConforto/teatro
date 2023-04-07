@@ -65,19 +65,19 @@ const menuPrincipaleDinamico = `
 `;
 
 
-//const titoloPagina = document.title;
-//const urlPagina = window.location.href
-//const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
+const titoloPagina2 = document.title;
+const urlPagina2 = window.location.href
+const descrizionePagina2 = document.querySelector("meta[name='description']").getAttribute("content");
 
 
 let schemaArticleInAggiunta = `
 <div class="page-header">
-<h1 itemprop="headline" class="div_header">`+titoloPagina+`</h1>
-<h2 class="hidden">`+titoloPagina+`</h2>
-<h3 class="hidden">`+titoloPagina+`</h3>
-<h4 class="hidden">`+titoloPagina+`</h4>
-<h5 class="hidden">`+titoloPagina+`</h5>
-<h6 class="hidden">`+titoloPagina+`</h6>
+<h1 itemprop="headline" class="div_header">`+titoloPagina2+`</h1>
+<h2 class="hidden">`+titoloPagina2+`</h2>
+<h3 class="hidden">`+titoloPagina2+`</h3>
+<h4 class="hidden">`+titoloPagina2+`</h4>
+<h5 class="hidden">`+titoloPagina2+`</h5>
+<h6 class="hidden">`+titoloPagina2+`</h6>
 </div>
 <meta itemprop="dateModified" content="2022-01-29 10:33:08">
 <div class="hidden" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
@@ -85,12 +85,14 @@ let schemaArticleInAggiunta = `
     <span itemprop="url">https://aldoconforto.github.io/teatro/riccardo-conforto-design-e-gestione-del-sito</span>
 </div>
 <img class="hidden" itemprop="image" src="images/Aldo%20Conforto%20vestito%20di%20scena.jpg" alt="Aldo Conforto attore regista di teatro" title="Aldo Conforto attore regista di teatro">
-<link itemprop="url" title="`+titoloPagina+`" href="`+urlPagina+`">    
+<link itemprop="url" title="`+titoloPagina2+`" href="`+urlPagina2+`">    
 <link itemprop="additionalType" title="Home" href="https://aldoconforto.github.io/teatro/index.htm">
 <link itemprop="additionalType" title="Biografia" href="https://aldoconforto.github.io/teatro/aldo-conforto-biografia-curriculum-vitae.html">
 <link itemprop="additionalType" title="Articoli" href="https://aldoconforto.github.io/teatro/articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html">
 <link itemprop="additionalType" title="Vestiti" href="https://aldoconforto.github.io/teatro/vestiti-di-scena-fotografie-modelli.html">
 `;
+
+
 
 let footerDinamico = `
 <div class="g-container">
@@ -163,23 +165,23 @@ let footerDinamico = `
         <div class="g-content">
             <div class="g-content">
                 <div class="g-social "> 
-                    <a href="cookie/consent_prompt/index.htm?u=`+urlPagina+`" target="_blank" rel="nofollow" title="Facebook `+titoloPagina+`" aria-label="Facebook"> 
+                    <a href="cookie/consent_prompt/index.htm?u=`+urlPagina2+`" target="_blank" rel="nofollow" title="Facebook `+titoloPagina2+`" aria-label="Facebook"> 
                         <span class="fab fa-facebook-f fa-3x"></span>                 
                         <span class="g-social-text"></span>             
                     </a> 
-                    <a href="https://api.whatsapp.com/send?text=`+urlPagina+`" data-action="share/whatsapp/share" target="_blank" rel="nofollow" title="Whatsapp `+titoloPagina+`" aria-label="Whatsapp"> 
+                    <a href="https://api.whatsapp.com/send?text=`+urlPagina2+`" data-action="share/whatsapp/share" target="_blank" rel="nofollow" title="Whatsapp `+titoloPagina2+`" aria-label="Whatsapp"> 
                         <span class="fab fa-whatsapp fa-3x"></span>                 
                         <span class="g-social-text"></span>             
                     </a> 
-                    <a href="https://twitter.com/intent/tweet?text=`+urlPagina+`" target="_blank" rel="nofollow" title="Twitter `+titoloPagina+`" aria-label="Twitter"> 
+                    <a href="https://twitter.com/intent/tweet?text=`+urlPagina2+`" target="_blank" rel="nofollow" title="Twitter `+titoloPagina2+`" aria-label="Twitter"> 
                         <span class="fab fa-twitter fa-3x"></span> 
                         <span class="g-social-text"></span>             
                     </a> 
-                    <a href="http://www.linkedin.com/shareArticle?mini=true&url=`+urlPagina+`" target="_blank" rel="nofollow" title="Linkedin `+titoloPagina+`" aria-label="Linkedin"> 
+                    <a href="http://www.linkedin.com/shareArticle?mini=true&url=`+urlPagina2+`" target="_blank" rel="nofollow" title="Linkedin `+titoloPagina2+`" aria-label="Linkedin"> 
                         <span class="fab fa-linkedin fa-3x"></span>                 
                         <span class="g-social-text"></span>             
                     </a> 
-                    <a href="https://telegram.me/share/url?url=`+urlPagina+`" data-action="share/telegram/share" target="_blank" rel="nofollow" title="Telegram `+titoloPagina+`" aria-label="Telegram"> 
+                    <a href="https://telegram.me/share/url?url=`+urlPagina2+`" data-action="share/telegram/share" target="_blank" rel="nofollow" title="Telegram `+titoloPagina2+`" aria-label="Telegram"> 
                         <span class="fab fa-telegram fa-3x"></span> 
                         <span class="g-social-text"></span> 
                     </a>    
@@ -206,16 +208,16 @@ let sectionExpandedDinamico = `
 
 //const pippo = document.querySelector('pippo');
 //pippo.addEventListener('click', updateName);
-// let titoloPagina = document.querySelector('title');
-/*let titoloPagina = document.title;
-let descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
+// let titoloPagina2 = document.querySelector('title');
+/*let titoloPagina2 = document.title;
+let descrizionePagina2 = document.querySelector("meta[name='description']").getAttribute("content");
 
 let mioNome = 'Riccardo';
 let arrayColori = ['rosso', 'verde', 'giallo'];
 console.log(arrayColori[2]);
 console.log(mioNome);
-console.log(titoloPagina);
-console.log(descrizionePagina);
+console.log(titoloPagina2);
+console.log(descrizionePagina2);
 
 //const contenutoFooter = document.querySelector("div[id='locandineFooter']");
 //function updateName() {
