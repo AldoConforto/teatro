@@ -94,7 +94,7 @@ let canonicalTwitterFacebookFavicon = `
 <meta property="og:image:width" content="993">
 <meta property="og:image:height" content="1418">
 <meta property="og:image:alt" content="Aldo Conforto vestito di scena">
-<link href="../favicon.ico" rel="shortcut icon">
+<link href="../teatro/favicon.ico" rel="shortcut icon">
 `;
 
 let schemaArticleInAggiunta = `
