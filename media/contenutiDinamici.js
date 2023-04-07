@@ -273,7 +273,7 @@ function aggiornaContenuto(campoNellaPagina,nuovoContenuto) {
     campoNellaPagina.innerHTML = nuovoContenuto;
 }
 
-function aggiungiContenutoPrima(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaPrima) {
+async function aggiungiContenutoPrima(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaPrima) {
     //campoNellaPagina[0].innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
     campoNellaPagina.innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
 }
