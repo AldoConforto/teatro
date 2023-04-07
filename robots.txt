@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
 Sitemap: https://aldoconforto.github.io/teatro/sitemap.xml
