@@ -65,9 +65,9 @@ const menuPrincipaleDinamico = `
 `;
 
 
-const titoloPagina = document.title;
-const urlPagina = window.location.href
-const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
+//const titoloPagina = document.title;
+//const urlPagina = window.location.href
+//const descrizionePagina = document.querySelector("meta[name='description']").getAttribute("content");
 
 
 let schemaArticleInAggiunta = `
