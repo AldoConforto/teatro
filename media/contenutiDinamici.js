@@ -98,7 +98,6 @@ let canonicalTwitterFacebookFavicon = `
 `;
 
 let schemaArticleInAggiunta = `
-<meta itemprop="inLanguage" content="it-IT">
 <div class="page-header">
 <h1 itemprop="headline" class="div_header">`+titoloPagina+`</h1>
 <h2 class="hidden">`+titoloPagina+`</h2>
