@@ -69,7 +69,7 @@ const titoloPagina2 = document.title;
 const urlPagina2 = window.location.href
 const descrizionePagina2 = document.querySelector("meta[name='description']").getAttribute("content");
 
-
+/*
 let schemaArticleInAggiunta = `
 <div class="page-header">
 <h1 itemprop="headline" class="div_header">`+titoloPagina2+`</h1>
@@ -81,6 +81,7 @@ let schemaArticleInAggiunta = `
 </div>
 <link itemprop="url" title="`+titoloPagina2+`" href="`+urlPagina2+`">    
 `;
+*/
 
 
 
@@ -217,9 +218,9 @@ console.log(descrizionePagina2);
 */
 
 //let contenutoSchemaArticle = document.getElementById('schemaArticle');
-const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
+//const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
 //console.log(contenutoSchemaArticle.innerHTML);
-aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
+//aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
 
 const menuPrincipale = document.getElementById('menuPrincipale');
 //console.log(menuPrincipale.innerHTML);
