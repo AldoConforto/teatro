@@ -79,17 +79,7 @@ let schemaArticleInAggiunta = `
 <h5 class="hidden">`+titoloPagina2+`</h5>
 <h6 class="hidden">`+titoloPagina2+`</h6>
 </div>
-<meta itemprop="dateModified" content="2022-01-29 10:33:08">
-<div class="hidden" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
-    <span itemprop="name">Riccardo Conforto</span>
-    <span itemprop="url">https://aldoconforto.github.io/teatro/riccardo-conforto-design-e-gestione-del-sito</span>
-</div>
-<img class="hidden" itemprop="image" src="images/Aldo%20Conforto%20vestito%20di%20scena.jpg" alt="Aldo Conforto attore regista di teatro" title="Aldo Conforto attore regista di teatro">
 <link itemprop="url" title="`+titoloPagina2+`" href="`+urlPagina2+`">    
-<link itemprop="additionalType" title="Home" href="https://aldoconforto.github.io/teatro/index.htm">
-<link itemprop="additionalType" title="Biografia" href="https://aldoconforto.github.io/teatro/aldo-conforto-biografia-curriculum-vitae.html">
-<link itemprop="additionalType" title="Articoli" href="https://aldoconforto.github.io/teatro/articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html">
-<link itemprop="additionalType" title="Vestiti" href="https://aldoconforto.github.io/teatro/vestiti-di-scena-fotografie-modelli.html">
 `;
 
 
