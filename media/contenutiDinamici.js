@@ -252,17 +252,17 @@ console.log(descrizionePagina);
 //}
 */
 
+//let contenutoSchemaArticle = document.getElementById('schemaArticle');
+const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
+//console.log(contenutoSchemaArticle.innerHTML);
+aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
+
 const menuPrincipale = document.getElementById('menuPrincipale');
 //console.log(menuPrincipale.innerHTML);
 aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
 
 const contenutoCanonicalTwitterFacebookFavicon = document.getElementById('canonicalTwitterFacebookFavicon');
 aggiornaContenuto(contenutoCanonicalTwitterFacebookFavicon,canonicalTwitterFacebookFavicon);
-
-//let contenutoSchemaArticle = document.getElementById('schemaArticle');
-const contenutoSchemaArticle = document.getElementsByClassName('com-content-article__body')[0];
-console.log(contenutoSchemaArticle.innerHTML);
-aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
