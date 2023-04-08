@@ -6,65 +6,6 @@
 @see     https://
 */
 
-const menuPrincipaleDinamico = `
-    <div class="g-container">
-        <div class="g-grid">                        
-            <div class="g-block size-100">
-                <div class="g-system-messages">
-                    <div id="system-message-container" aria-live="polite"></div>
-                </div>
-            </div>
-        </div>
-        <div class="g-grid">                        
-            <div class="g-block size-100">
-                <div id="menu-6409-particle" class="g-content g-particle">
-                    <nav class="g-main-nav" data-g-hover-expand="true">
-                        <ul class="g-toplevel">
-                            <li class="g-menu-item g-menu-item-type-component g-menu-item-101 g-standard  ">
-                                <a class="g-menu-item-container" href="./index.htm" title="Aldo Conforto Home Page">
-                                    <i class="fa fa-home" aria-hidden="true"></i>
-                                    <span class="g-menu-item-content">
-                                        <span class="g-menu-item-title">Home</span>
-                                        <span class="g-menu-item-subtitle">Aldo Conforto</span>
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="g-menu-item g-menu-item-type-component g-menu-item-106 g-standard  ">
-                                <a class="g-menu-item-container" href="./aldo-conforto-biografia-curriculum-vitae.html" title="Aldo Conforto Biografia Curriculum Vitae">
-                                    <i class="fa fa-address-book" aria-hidden="true"></i>
-                                    <span class="g-menu-item-content">
-                                        <span class="g-menu-item-title">Biografia</span>
-                                        <span class="g-menu-item-subtitle">curriculum vitae</span>
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="g-menu-item g-menu-item-type-component g-menu-item-107 g-standard  ">
-                                <a class="g-menu-item-container" href="./articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html" title="Articoli di teatro collezionati dai giornali cartacei e digitali">
-                                    <i class="fa fa-book" aria-hidden="true"></i>
-                                    <span class="g-menu-item-content">
-                                        <span class="g-menu-item-title">Articoli</span>
-                                        <span class="g-menu-item-subtitle">articoli di giornale</span>
-                                    </span>
-                                </a>
-                            </li>
-                            <li class="g-menu-item g-menu-item-type-component g-menu-item-122 g-standard  ">
-                                <a class="g-menu-item-container" href="./vestiti-di-scena-fotografie-modelli.html" title="Set foto di spettacoli di teatro e vestiti di scena">
-                                    <i class="fa fa-file-picture-o" aria-hidden="true"></i>
-                                    <span class="g-menu-item-content">
-                                        <span class="g-menu-item-title">Vestiti</span>
-                                        <span class="g-menu-item-subtitle">vestiti di scena</span>
-                                    </span>
-                                </a>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-`;
-
-
 const titoloPagina2 = document.title;
 const urlPagina2 = window.location.href
 const descrizionePagina2 = document.querySelector("meta[name='description']").getAttribute("content");
@@ -196,6 +137,119 @@ let sectionExpandedDinamico = `
 </div>
 `;
 
+let menuPrincipaleDopo = `
+<div class="g-container">
+    <div class="g-grid">
+        <div class="g-block size-100">
+            <div class="g-system-messages">
+                <div id="system-message-container" aria-live="polite"></div>
+            </div>
+        </div>
+    </div>
+    <div class="g-grid">
+        <div class="g-block size-100">
+            <div id="menu-6409-particle" class="g-content g-particle">
+                <nav class="g-main-nav" data-g-hover-expand="true">
+                    <ul class="g-toplevel">
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-101 active g-standard  ">
+                            <a class="g-menu-item-container" href="./index.htm" title="Aldo Conforto Home Page">
+                                <i class="fa fa-home" aria-hidden="true"></i>
+                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Home</span>
+                                    <span class="g-menu-item-subtitle">Aldo Conforto</span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-106 g-standard  ">
+                            <a class="g-menu-item-container" href="./aldo-conforto-biografia-curriculum-vitae.html" title="Aldo Conforto Biografia Curriculum Vitae">
+                                <i class="fa fa-address-book" aria-hidden="true"></i>
+                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Biografia</span>
+                                    <span class="g-menu-item-subtitle">curriculum vitae</span>
+                                </span>
+                            </a>
+                        </li>
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-107 g-parent g-standard g-menu-item-link-parent ">
+                            <a class="g-menu-item-container" href="./articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html" title="Articoli di teatro collezionati dai giornali cartacei e digitali">
+                                <i class="fa fa-book" aria-hidden="true"></i>
+                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Articoli</span>
+                                    <span class="g-menu-item-subtitle">articoli di giornale</span>
+                                </span>
+                                <span class="g-menu-parent-indicator" data-g-menuparent=""></span>
+                            </a>
+                            <ul class="g-dropdown g-inactive g-fade g-dropdown-right">
+                                <li class="g-dropdown-column">
+                                    <div class="g-grid">
+                                        <div class="g-block size-100">
+                                            <ul class="g-sublevel">
+                                                <li class="g-level-1 g-go-back">
+                                                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
+                                                </li>
+                                                <li class="g-menu-item g-menu-item-type-component g-menu-item-238  ">
+                                                    <a class="g-menu-item-container" href="./articoli-da-anno-2018-ad-oggi.html" title="Articoli da anno 2018 ad oggi">
+                                                        <span class="g-menu-item-content">
+                                                            <span class="g-menu-item-title">Articoli da anno 2018 ad oggi</span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-122 g-standard  ">
+                            <a class="g-menu-item-container" href="./vestiti-di-scena-fotografie-modelli.html" title="Vestiti di scena con fotografie dei modelli">
+                                <i class="fa fa-file-picture-o" aria-hidden="true"></i>
+                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Vestiti</span>
+                                    <span class="g-menu-item-subtitle">vestiti di scena</span>
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+`;
+
+let canonicalTwitterFacebookFavicon = `
+    <link rel="canonical" href="`+urlPagina2+`" />
+    <meta name="twitter:title" content="`+titoloPagina2+`">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:url" content="`+urlPagina2+`">
+    <meta name="twitter:description" content="`+descrizionePagina2+`">
+    <meta name="twitter:image" content="https://aldoconforto.github.io/teatro/images/Aldo%20Conforto%20vestito%20di%20scena.jpg">
+    <meta name="twitter:image:alt" content="Aldo Conforto vestito di scena">
+    <meta property="og:title" content="`+titoloPagina2+`">
+    <meta property="og:type" content="article">
+    <meta property="og:email" content="">
+    <meta property="og:url" content="`+urlPagina2+`">
+    <meta property="og:image" content="https://aldoconforto.github.io/teatro/images/Aldo%20Conforto%20vestito%20di%20scena.jpg">
+    <meta property="og:image:alt" content="Aldo Conforto vestito di scena">
+    <meta property="og:site_name" content="`+titoloPagina2+`">
+    <meta property="fb:admins" content="xxxxxxxxxxx">
+    <meta property="fb:app_id" content="578483895953705">
+    <meta property="og:description" content="`+descrizionePagina2+`">
+    <meta property="og:image" content="https://aldoconforto.github.io/teatro/images/Aldo%20Conforto%20vestito%20di%20scena.jpg">
+    <meta property="og:image:width" content="993">
+    <meta property="og:image:height" content="1418">
+    <meta property="og:image:alt" content="Aldo Conforto vestito di scena">
+    <link href="./favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+    <link rel="mask-icon" href="./safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+`;
+
 
 //const pippo = document.querySelector('pippo');
 //pippo.addEventListener('click', updateName);
@@ -222,9 +276,13 @@ console.log(descrizionePagina2);
 //console.log(contenutoSchemaArticle.innerHTML);
 //aggiungiContenutoPrima(document.getElementsByClassName('com-content-article__body')[0],contenutoSchemaArticle.innerHTML,schemaArticleInAggiunta);
 
-const menuPrincipale = document.getElementById('menuPrincipale');
-//console.log(menuPrincipale.innerHTML);
-aggiornaContenuto(menuPrincipale,menuPrincipaleDinamico);
+const headAttuale = document.querySelector("head").innerHTML;
+//console.log(headAttuale);
+aggiungiContenutoDopo(document.querySelector("head"),headAttuale,canonicalTwitterFacebookFavicon);
+
+const menuPrincipaleAttuale = document.getElementsByClassName('section-horizontal-paddings-small')[0];
+//console.log(menuPrincipaleAttuale.innerHTML);
+aggiornaContenuto(menuPrincipaleAttuale,menuPrincipaleDopo);
 
 const footer = document.getElementById('footer');
 aggiornaContenuto(footer,footerDinamico);
@@ -239,4 +297,9 @@ function aggiornaContenuto(campoNellaPagina,nuovoContenuto) {
 function aggiungiContenutoPrima(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaPrima) {
     //campoNellaPagina[0].innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
     campoNellaPagina.innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
+}
+
+function aggiungiContenutoDopo(campoNellaPagina,contenutoAttuale,contenutoInAggiuntaDopo) {
+    //campoNellaPagina[0].innerHTML = contenutoInAggiuntaPrima + contenutoAttuale;
+    campoNellaPagina.innerHTML = contenutoAttuale + contenutoInAggiuntaDopo;
 }
