@@ -37,8 +37,19 @@
 
 .div_header {
     width: 100%;
-    line-height: 200%;
-    font-size: 1.3em
+    padding: 8px 10px 10px 50px;
+    margin: 0px;
+    font-size: 1.3em;
+    line-height: 100%
+}
+
+.div_header2 {
+    width: 100%;
+    padding: 0px 10px 0px 50px;
+    margin: 0px;
+    line-height: 90%;
+    font-size: 1.0em;
+    font-weight: bold;
 }
 
 .list_biografia {
@@ -55,7 +66,7 @@
 .list_articoli {
     line-height: 2em;
     font-size: 1.0em;
-    font-weight: bold;   
+    font-weight: bold;
 }
 
 

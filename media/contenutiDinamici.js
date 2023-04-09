@@ -131,7 +131,7 @@ let sectionExpandedDinamico = `
     <p>
         « si ringraziano gli autori e le redazioni di tutti i giornali dai quali sono stati recuperati gli articoli presenti in queste pagine »
     </br>
-        « un ringraziamento speciale va a tutti coloro che hanno contribuito alla realizzazione degli spettacoli e a tutto il pubblico che in tutti questi anni ha scelto di donare il proprio tempo a sostegno del Teatro »
+        « un ringraziamento speciale va a tutti coloro che hanno contribuito alla realizzazione degli spettacoli e a tutto il pubblico »
     </p>
 </blockquote>
 </div>
@@ -151,8 +151,8 @@ let menuPrincipaleDopo = `
             <div id="menu-6409-particle" class="g-content g-particle">
                 <nav class="g-main-nav" data-g-hover-expand="true">
                     <ul class="g-toplevel">
-                        <li class="g-menu-item g-menu-item-type-component g-menu-item-101 active g-standard  ">
-                            <a class="g-menu-item-container" href="./index.htm" title="Aldo Conforto Home Page">
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-101 g-standard  ">
+                            <a class="g-menu-item-container" href="./index.html" title="Aldo Conforto Home Page">
                                 <i class="fa fa-home" aria-hidden="true"></i>
                                 <span class="g-menu-item-content">
                                     <span class="g-menu-item-title">Home</span>
@@ -184,12 +184,29 @@ let menuPrincipaleDopo = `
                                         <div class="g-block size-100">
                                             <ul class="g-sublevel">
                                                 <li class="g-level-1 g-go-back">
-                                                    <a class="g-menu-item-container" href="#" data-g-menuparent=""><span>Back</span></a>
-                                                </li>
+                                                    <a class="g-menu-item-container" href="#" data-g-menuparent="">
+                                                        <span>Back</span>
+                                                    </a>
+                                                </li>                                                                                                      
                                                 <li class="g-menu-item g-menu-item-type-component g-menu-item-238  ">
                                                     <a class="g-menu-item-container" href="./articoli-da-anno-2018-ad-oggi.html" title="Articoli da anno 2018 ad oggi">
                                                         <span class="g-menu-item-content">
                                                             <span class="g-menu-item-title">Articoli da anno 2018 ad oggi</span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                                <li class="g-menu-item g-menu-item-type-component g-menu-item-238  ">
+                                                    <a class="g-menu-item-container" href="./articoli-da-anno-2000-al-2017.html" title="Articoli da anno 2000 ad 2017">
+                                                        <span class="g-menu-item-content">
+                                                            <span class="g-menu-item-title">Articoli da anno 2000 ad 2017</span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+
+                                                <li class="g-menu-item g-menu-item-type-component g-menu-item-239  ">
+                                                    <a class="g-menu-item-container" href="./articoli-precedenti-ad-anno-2000.html" title="Articoli precedenti anno 2000">
+                                                        <span class="g-menu-item-content">
+                                                            <span class="g-menu-item-title">Articoli precedenti anno 2000</span>
                                                         </span>
                                                     </a>
                                                 </li>
