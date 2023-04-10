@@ -4,42 +4,54 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://aldoconforto.github.io/teatro/</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://aldoconforto.github.io/teatro/index.htm</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <loc>https://aldoconforto.github.io/teatro/index.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/aldo-conforto-biografia-curriculum-vitae.html</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://aldoconforto.github.io/teatro/articoli.html</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <loc>https://aldoconforto.github.io/teatro/articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://aldoconforto.github.io/teatro/vestiti.html</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <loc>https://aldoconforto.github.io/teatro/articoli-da-anno-2000-al-2017.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aldoconforto.github.io/teatro/articoli-da-anno-2018-ad-oggi.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aldoconforto.github.io/teatro/articoli-precedenti-ad-anno-2000.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aldoconforto.github.io/teatro/vestiti-di-scena-fotografie-modelli.html</loc>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/riccardo-conforto-design-e-gestione-del-sito.html</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/laboratorio-di-teatro-classico-apertura-iscrizioni-2022.html</loc>
-  <lastmod>2023-03-26T18:33:11+00:00</lastmod>
+  <lastmod>2023-04-10T11:11:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -165,583 +177,581 @@
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-vento-della-parola-antica-torna-a-soffiare-forte-su-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis2017-medea-18-novembre-2017.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/giovanni-pascoli-i-suoni-della-natura-nuovo-successo-del-t-d-c.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/poiesis-2018-giovanni-pascoli-i-suoni-della-natura.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/grazie-al-teatro-di-calabria-d-annunzio-rivive-al-san-giovanni.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/quarta-edizione-del-graecalis-il-teatro-classico-abita-in-citta.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis-off-casta-diva-giovedi-3-agosto.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis-2017-titan-medea-26-27-luglio-1-2-agosto.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis-il-vento-della-parola-antica-quarto-ciclo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis2017-titan-medea-5-6-luglio-12-13-luglio.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-classico-le-scenografie-di-cesare-citriniti.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-magia-del-graecalis.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/edipo-e-la-tragedia-della-conoscenza-in-scena-al-san-giovanni.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/al-marca-l-anteprima-edizione-2016-graecalis.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis-2016-l-anteprima-il-25-giugno-al-marca-di-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/inatteso-leopardi-il-t-di-c-rilegge-le-operette-morali.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/19-marzo-2016-presso-marca-museo-delle-arti-di-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/marca-grande-successo-per-il-secondo-appuntamento-di-poiesis.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-proseguono-gli-appuntamenti-di-poiesis.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/riprendono-al-marca-gli-appuntamenti-con-poiesis.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/sellia-marina-miles-gloriosus-al-teatro-delle-arti.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/riso-anche-amaro-con-miles-gloriosus.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/settembre-al-parco-teatro-protagonista-con-miles-gloriosus.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/settembre-al-parco-il-teatro-di-calabria-fa-il-pienone.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/grande-serata-di-cultura-e-spettacolo-con-il-premio-cassiodoro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-il-teatro-di-calabria-mette-in-scena-miles-gloriosus.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-al-teatro-tieri-in-scena-la-medea.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/le-tentazioni-di-prometeo-e-la-crisi-della-civilta-al-caffe-arti.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/teatro-di-calabria-presenta-le-tentazioni-di-prometeo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-teatro-in-scena-elettra.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/elettra-il-secondo-appuntamento-della-rassegna.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/graecalis-il-vento-della-parola-antica-prosegue-il-suo-percorso.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/comunicato-stampa-elettra-luglio-2015.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/titan-i-fuochi-di-prometeo-13-luglio-2015.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/c-monumentale-del-san-giovanni-i-fuochi-di-prometeo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/da-prometeo-a-elettra-il-mito-va-in-scena-a-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/aspettando-graecalis-l-importanza-culturale.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/spettacolo-antigone-teatro-di-calabria-a-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-aroldo-tieri-alla-fiera-del-libro-gutenberg.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/un-incontro-sulla-commedia-classica-da-plauto-a-moliere.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-entusiasmante-medea-del-teatro-di-calabria-aroldo-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/brigantaggio-in-calabria-dopo-l-unita-d-italia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-all-istituto-salesiano-di-soverato.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/teatro-l-aroldo-tieri-presenta-le-tentazioni-di-prometeo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-in-scena-le-tentazioni-di-prometeo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/moglie-e-buoi-l-arguta-comicita-della-compagnia-a-trambia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-a-tieri-rende-omaggio-a-boccaccio.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-t-d-c-rende-omaggio-a-boccaccio-con-il-decameron.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-t-d-c-presenta-le-donne-i-cavallier-l-arme-gli-amori.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-omaggia-giovanni-pascoli.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-adelchi-di-aldo-conforto-il-compito-arduo-di-un-regista.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-locandiera-goldoniana-di-aldo-conforto-una-turba-di-maschere.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-t-d-c-aroldo-tieri-torna-in-scena-con-la-locandiera.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-t-d-c-a-tieri-porta-in-scena-la-locandiera-all-auditorium.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-locandiera-di-carlo-goldoni-all-auditorium-casalinuovo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-aroldo-tieri-mette-in-scena-l-adelchi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/rappresentaz-ridotta-della-tragedia-adelchi-a-cura-del-t-d-c.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/voce-ai-giovani-per-ricordare-massimiliano.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/centro-polivalente-per-i-giovani-adelchi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/dialetto-catanzarese-torna-protagonista-con-u-cortila-d-a-pacia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/teatro-in-vernacolo-al-casalinuovo-di-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-aroldo-tieri-in-scena-con-adelchi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/all-auditorium-casalinuovo-di-catanzaro-adelchi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/spettacolo-teatrale-malavoglia-al-casalinuovo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/ridere-con-gusto-a-teatro-con-il-trio-cristofaro-trebian-conforto.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-orso-e-una-domanda-di-matrimonio-al-casalinuovo-di-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-unita-nel-paese-del-brigante-con-la-nipote-di-garibaldi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-unita-nel-paese-del-brigante-ass-culturale-senza-sosta.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-messa-in-scena-tragedia-ispirata-malavoglia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/i-malavoglia-con-il-teatro-di-calabria.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/commedia-dell-arte-day-successo-per-il-t-d-c-aroldo-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-di-calabria-aroldo-tieri-porta-in-scena-i-malavoglia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-lab-di-teatro-classico-del-galluppi-porta-in-scena-la-medea.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-rivolta-di-casignana-in-scena-all-auditorium.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/lo-spettacolo-la-rivolta-di-casignana-tra-memoria-e-futuro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/auditorium-casalinuovo-la-rivolta-di-casignana.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/applausi-al-masciari-per-l-eredita-dello-zio-buonanima.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/l-eredita-dello-zio-buonanima-a-trambia-al-teatro-masciari.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/inaugurati-i-corsi-della-scuola-teatro-di-calabria-aroldo-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/prima-lezione-per-la-scuola-di-teatro-aroldo-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/presentata-l-associazione-teatro-di-calabria-aroldo-tieri.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/biblioteca-de-nobili-marcella-crudo-presenta-il-suo-nuovo-libro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/on-voleri-nenta-il-libro-poetico-di-marcella-crudo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-presentazione-di-un-libro-alla-de-nobili.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-divina-commedia-presentata-letta-e-commentata-dai-giovani.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/primo-appuntamento-con-la-divina-commedia-letta-dai-giovani.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/lectura-dantis-questa-volta-protagonisti-sono-giovani-studenti.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/stagione-di-successi-per-la-compagnia-teatrale-catanzarese.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/u-cortila-d-a-pacia-compagnia-teatrale-a-trambia.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-1-e-2-luglio-a-trambia-di-scena.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/u-cortila-d-a-pacia-a-catanzaro-un-nuovo-brillante-lavoro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/uno-spazio-da-vivere-presenta-la-figlia-di-iorio.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/t-aiu-e-maritara-lunedi-30-luglio-2007.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/commedia-teatrale-t-aiu-e-maritara.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/catanzaro-dal-musical-al-dramma-il-piacere-di-calcare-la-scena.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/e-infine-una-standing-ovation-il-mito-del-faust.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-classico-entra-a-scuola-doctor-faustus-all-auditorium.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/in-scena-doctor-faustus-di-christopher-marlowe.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-doctor-faustus-del-siciliani-oggi-in-scena-all-auditorium.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/domani-all-auditorium-in-scena-dr-faustus.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/la-tragedia-del-doctor-faustus-al-liceo-scientifico-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-doctor-faustus-all-auditorium-casalinuovo-di-catanzaro.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/martedi-in-scena-doctor-faust-con-i-ragazzi-del-siciliani.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/lawrence-conquista-soverato-al-teatro-del-grillo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/se-sul-palco-c-e-il-signor-lawrence-rassegna-stampa.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/calcano-le-scene-da-oltre-dieci-anni.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-gruppo-teatrale-dell-istituto-presenta-la-mandragola.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/il-teatro-e-il-grimaldi-ovvero-lisistrata-brochure.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/gli-alunni-del-grimaldi-di-catanzaro-hanno-recitato-moliere.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/gli-studenti-del-grimaldi-recitano-al-teatro-masciari.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/una-serata-particolare-il-borghese-gentiluomo.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/lisistrata-di-aristofane-brochure-dell-i-t-c-grimaldi.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/gruppo-a-g-a-p-e-chiesa-del-monte-catanzaro-presenta.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/le-coppie-difficili-di-courteline-oggi-sud-novembre-1976.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/vivi-applausi-agli-attori-della-teatrale-calabrese.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aldoconforto.github.io/teatro/articoli/c-t-c-presenta-canto-espanol-por-f-g-lorca-brochure.html</loc>
   <lastmod>2023-03-26T18:33:11+00:00</lastmod>
-  <priority>0.51</priority>
+  <priority>0.64</priority>
 </url>
-
-
 </urlset>
