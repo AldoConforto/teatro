@@ -169,6 +169,15 @@ let menuPrincipaleDopo = `
                                 </span>
                             </a>
                         </li>
+                        <li class="g-menu-item g-menu-item-type-component g-menu-item-122 g-standard  ">
+                            <a class="g-menu-item-container" href="./vestiti-di-scena-fotografie-modelli.html" title="Vestiti di scena con fotografie dei modelli">
+                                <i class="fa fa-male" aria-hidden="true"></i>
+                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Vestiti</span>
+                                    <span class="g-menu-item-subtitle">vestiti di scena</span>
+                                </span>
+                            </a>
+                        </li>
                         <li class="g-menu-item g-menu-item-type-component g-menu-item-107 g-parent g-standard g-menu-item-link-parent ">
                             <a class="g-menu-item-container" href="./articoli-di-teatro-collezionati-dai-giornali-cartacei-e-digitali.html" title="Articoli di teatro collezionati dai giornali cartacei e digitali">
                                 <i class="fa fa-book" aria-hidden="true"></i>
@@ -215,15 +224,6 @@ let menuPrincipaleDopo = `
                                     </div>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="g-menu-item g-menu-item-type-component g-menu-item-122 g-standard  ">
-                            <a class="g-menu-item-container" href="./vestiti-di-scena-fotografie-modelli.html" title="Vestiti di scena con fotografie dei modelli">
-                                <i class="fa fa-file-picture-o" aria-hidden="true"></i>
-                                <span class="g-menu-item-content">
-                                    <span class="g-menu-item-title">Vestiti</span>
-                                    <span class="g-menu-item-subtitle">vestiti di scena</span>
-                                </span>
-                            </a>
                         </li>
                     </ul>
                 </nav>
