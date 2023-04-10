@@ -10,12 +10,17 @@
     margin: 0px 10px 0px 0px;
     max-width: 60%
 }
-
 .immagine_a_destra_40 {
     float: right;
     margin: 0px 0px 0px 10px;
     max-width: 40%
 }
+.immagine_a_sinistra_40 {
+    float: left;
+    padding: 8px 10px 0px 0px;
+    max-width: 40%
+}
+
 
 .immagine_a_destra_20 {
     float: right;
@@ -53,7 +58,7 @@
 
 .div_header2 {
     width: 100%;
-    padding: 0px 10px 0px 50px;
+    padding: 0px 10px 8px 50px;
     margin: 0px;
     line-height: 100%;
     font-size: 1.0em;
