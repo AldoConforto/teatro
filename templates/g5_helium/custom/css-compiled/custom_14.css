@@ -95,23 +95,11 @@
     font-weight: bold;
 }
 .paragrafo_expanded {
-    width: 80%;
     line-height: 170%;
-    font-size: 1.0em;
+    padding: 0px 70px 0px 0px;
+    font-size: 1.3em;
     font-weight: bold;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(77, 166, 166);
     text-align: justify;
 }
-
-/*.list_articoli {
-    line-height: 2em;
-    margin: 0;
-    margin-block-start: 5px;
-    margin-block-end: 0;
-    margin-inline-start: 0;
-    margin-inline-end: 0;
-    padding-inline-start: 0;
-    font-size: 1.0em;
-    font-weight: bold;
-}*/

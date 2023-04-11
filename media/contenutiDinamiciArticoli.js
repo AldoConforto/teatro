@@ -127,13 +127,11 @@ let footerDinamico = `
 
 let sectionExpandedDinamico = `
 <div class="g-container" itemprop="articleSection">                                 
-<blockquote>
     <p class="paragrafo_expanded">
         « si ringraziano gli autori e le redazioni di tutti i giornali dai quali sono stati recuperati gli articoli presenti in queste pagine »
     </br>
         « un ringraziamento speciale va a tutti coloro che hanno contribuito alla realizzazione degli spettacoli e a tutto il pubblico »
     </p>
-</blockquote>
 </div>
 `;
 
