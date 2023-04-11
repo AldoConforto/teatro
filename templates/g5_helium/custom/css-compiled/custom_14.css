@@ -46,23 +46,26 @@
     margin: 0px;
     line-height: 160%;
     font-size: 1.2em;
+    text-align: justify;
 }
 
 .div_header{
-    width: 100%;
+    width: 97%;
     padding: 10px 10px 8px 50px;
     margin: 0px;
     font-size: 1.3em;
     line-height: 100%;
+    text-align: justify;
 }
 
 .div_header2 {
-    width: 100%;
+    width: 97%;
     padding: 0px 10px 8px 50px;
     margin: 0px;
     line-height: 100%;
     font-size: 1.0em;
     font-weight: bold;
+    text-align: justify;
 }
 
 .list_biografia {
@@ -74,7 +77,8 @@
     margin-inline-end: 0;
     /*padding-inline-start: 0;*/
     padding: 8px 10px 10px 50px;
-    font-size: 0.85em
+    font-size: 0.85em;
+    text-align: justify;
 }
 .div_list_a {
     width: 100%;
@@ -91,11 +95,13 @@
     font-weight: bold;
 }
 .paragrafo_expanded {
+    width: 80%;
     line-height: 170%;
     font-size: 1.0em;
     font-weight: bold;
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: rgb(77, 166, 166);
+    text-align: justify;
 }
 
 /*.list_articoli {
